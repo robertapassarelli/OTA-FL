@@ -1,5 +1,5 @@
 # ==============================
-# Federated Learning over Wireless Networks (OTA-FL)
+# Federated Learning via Over-the-Air: Algorithms and Experimental Validation 
 # Thesis Project - Roberta Passarelli (Sapienza University of Rome, 2025)
 # ==============================
 
