@@ -1,0 +1,37 @@
+# ==============================
+# Federated Learning over Wireless Networks (OTA-FL)
+# Thesis Project - Roberta Passarelli (Sapienza University of Rome, 2025)
+# ==============================
+
+# --- Core Deep Learning Frameworks ---
+tensorflow==2.15.0
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# --- Numerical and Scientific Packages ---
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.13.1
+matplotlib==3.9.2
+
+# --- Utility and Visualization ---
+seaborn==0.13.2
+tqdm==4.66.5
+networkx==3.3
+torchsummary==1.5.1
+
+# --- Google Colab Integration (optional) ---
+# Required only when running in Colab or Drive environment
+google-colab==1.0.0
+
+# --- Reproducibility and Environment Control ---
+python-dotenv==1.0.1
+
+# --- Optional: for Jupyter Notebook execution ---
+jupyterlab==4.2.5
+ipykernel==6.29.5
+
+# --- Compatibility ---
+# Tested on Python 3.10 / 3.11
