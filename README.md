@@ -21,8 +21,6 @@ OTA-FL/
 ├── EuroSAT_FL.ipynb       # FL and OTA-FL experiments on EuroSAT dataset
 │
 ├── plots/                 # Example figures produced by the notebooks
-│   ├── mnist_acc_loss.png
-│   └── eurosat_acc_loss.png
 │
 ├── requirements.txt       # Python environment dependencies
 └── README.md
