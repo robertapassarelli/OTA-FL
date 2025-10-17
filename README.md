@@ -20,7 +20,6 @@ OTA-FL/
 ├── MNIST_FL.ipynb         # FL and OTA-FL experiments on MNIST dataset
 ├── EuroSAT_FL.ipynb       # FL and OTA-FL experiments on EuroSAT dataset
 │
-│
 ├── plots/                 # Example figures produced by the notebooks
 │   ├── mnist_acc_loss.png
 │   └── eurosat_acc_loss.png
