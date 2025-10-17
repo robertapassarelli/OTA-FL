@@ -20,11 +20,6 @@ OTA-FL/
 ├── MNIST_FL.ipynb         # FL and OTA-FL experiments on MNIST dataset
 ├── EuroSAT_FL.ipynb       # FL and OTA-FL experiments on EuroSAT dataset
 │
-├── results/               # Subset of result files (accuracy/loss)
-│   ├── file_out_mnist_acc_001.txt
-│   ├── file_out_mnist_loss_001.txt
-│   ├── file_out_eurosat_acc_fl.txt
-│   └── file_out_eurosat_loss_fl.txt
 │
 ├── plots/                 # Example figures produced by the notebooks
 │   ├── mnist_acc_loss.png
@@ -35,7 +30,7 @@ OTA-FL/
 ```
 </pre>
 
-> Only a **subset** of the output `.txt` result files (accuracy/loss) is provided to illustrate the experiment structure.  
+> Only a **subset** of the plots (accuracy/loss) is provided to illustrate the experiment structure.  
 > Full results can be reproduced by executing the notebooks or are available upon request.
 
 ---
